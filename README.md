@@ -30,7 +30,7 @@ Projects will be added as I learn new concepts and technologies.
 
 ### Current Projects
 
-* **[Hand Tracking](./hand-tracking)** — Real-time hand landmark detection using OpenCV and MediaPipe.
+* **[Hand Tracking](./01-%20Tracking%20Hands)** — Real-time hand landmark detection using OpenCV and MediaPipe.
 
 ## Technologies
 
